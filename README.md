@@ -33,11 +33,3 @@ Below is a clean UI screenshot of the component in action:
 
 ## 📄 License
 MIT License - Free for personal and commercial use.
-
----
-
-## 🚀 Quick Start
-Clone the repository:
-```bash
-git clone https://github.com/sc-carlyn/liquid-progress-ring-pro.git
-cd liquid-progress-ring-pro
